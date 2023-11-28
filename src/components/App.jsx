@@ -57,5 +57,3 @@ export const App = () => {
           </Section>
     );
 }
-
-console.log('Hello')
